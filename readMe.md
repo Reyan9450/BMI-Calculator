@@ -15,11 +15,11 @@ BMI = weight (kg) / (height (m) * height (m))
 
 - 🌐 **HTML** – Structure of the webpage  
 - 🎨 **CSS** – Styling and layout  
-- ⚡ **JavaScript** – Logic for BMI calculation  
+
 
 ## 📸 Demo  
 
-![Demo](Assets/Demo.gif)  
+![Demo](./Assests/Demo.gif)  
 
 
 
